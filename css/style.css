@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    height:100%;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    /*background-color: #cce6ff;*/
+}
+
+.header {
+    font-family: sans-serif;
+    color : #000000;
+    text-transform: uppercase;
+}
