@@ -16,3 +16,6 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
   
 ## Used frameworks
 * Sweet Alert >> https://sweetalert.js.org
+
+## For Source Code
+https://github.com/mofayez/arcade-game
