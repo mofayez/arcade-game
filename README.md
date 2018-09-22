@@ -1,5 +1,8 @@
 Arcade Game
 ===============================
+## How to start the game
+To play the game, open index.html into your browser
+
 ## How to play the game
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
 
